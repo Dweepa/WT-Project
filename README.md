@@ -1,9 +1,9 @@
 # WT-Project
 # INDIAN CHRONICLES
 
-## Lakshana Kolur – 01FB16ECS175
 ## Dweepa Honnavalli - 01FB16ECS138
 ## Ishita Bhandari – 01FB16ECS143
+## Lakshana Kolur – 01FB16ECS175
 ## Kusumanjali Ramesh - 01FB16ECS173
 
 Our website chronicles Indian history in interesting ways. We have categorized it in terms of popularity of posts, according to the timeline of Indian History and recent posts. 
