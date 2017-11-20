@@ -24,6 +24,8 @@ function deleteButton()
 function status()
 {
     var statusValue = document.querySelector("textarea").value;
+    
+    
     var mainDiv = document.createElement("div");
     mainDiv.setAttribute("class","d");
     var statusDiv = document.createElement("div");

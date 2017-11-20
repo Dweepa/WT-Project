@@ -32,7 +32,9 @@
 	<div class="comment fixme" style="width:360px; height: auto;">
 		<div>
 		<h2>Comments Please!</h2>
-<TEXTAREA></TEXTAREA><br><br>
+
+<textarea></textarea><br><br>
+
 <BUTTON  onclick="status()">Comment!</button>
 		</div>
 	</div><br>

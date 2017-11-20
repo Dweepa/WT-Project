@@ -1074,7 +1074,7 @@ body{
 
 			#preview .content header h2 {
 				font-size: 2.5em;
-				color: #e74c3c;
+				color: #c76766;
 			}
 
 		@media screen and (max-width: 1680px) {
@@ -1138,6 +1138,7 @@ body{
 
 	header p {
 		color: #bbb;
+        
 	}
 
 /* Table */
@@ -1281,7 +1282,7 @@ body{
 			display: -ms-flexbox;
 			-ms-flex-align: center;
 			-ms-flex-pack: center;
-			background: #e74c3c;
+			background-color: #c76766;
 			border-radius: 100%;
 			width: 35em;
 			height: 35em;
