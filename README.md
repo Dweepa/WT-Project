@@ -3,7 +3,7 @@
 
 
 ## Dweepa Honnavalli - 01FB16ECS138
-![alt-text][webtech screenshot.png]
+![alt-text](https://github.com/Dweepa/WT-Project/blob/master/Webtech%20screenshot.png)
 ## Ishita Bhandari – 01FB16ECS143
 ## Lakshana Kolur – 01FB16ECS175
 ## Kusumanjali Ramesh - 01FB16ECS173
