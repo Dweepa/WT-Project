@@ -28,10 +28,13 @@ function status()
     
     var mainDiv = document.createElement("div");
     mainDiv.setAttribute("class","d");
+    
     var statusDiv = document.createElement("div");
     statusDiv.setAttribute("class","d");
+    
     var S = document.createElement("p");
     S.innerHTML = statusValue;
+    
     var like = document.createElement("input");
     var likeValue = document.createElement("span");
     like.setAttribute("value","LIKE");
@@ -39,11 +42,13 @@ function status()
     like.setAttribute("id","css");
     like.addEventListener("click",likeButton,false);
     likeValue.innerHTML = "0";
+    
     var del = document.createElement("input");
     del.setAttribute("value","DELETE");
     del.setAttribute("type","button");
     del.setAttribute("id","css");
     del.addEventListener("click",deleteButton,false);
+    
     var comm = document.querySelector(".comment");
     comm.appendChild(mainDiv);
     mainDiv.appendChild(statusDiv);
